@@ -17,7 +17,7 @@ roboto_black
 
 please make sure you set the viewSize the same value as the width and height of the view.
 
-Below is an example
+Below is an example:
 
 
 ```js
