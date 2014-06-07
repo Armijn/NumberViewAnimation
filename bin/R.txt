@@ -1,0 +1,9 @@
+int attr font 0x7f010002
+int attr strokeSize 0x7f010000
+int attr viewSize 0x7f010001
+int string app_name 0x7f020000
+int[] styleable NumberViewAttr { 0x01010098, 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable NumberViewAttr_android_textColor 0
+int styleable NumberViewAttr_font 3
+int styleable NumberViewAttr_strokeSize 1
+int styleable NumberViewAttr_viewSize 2
