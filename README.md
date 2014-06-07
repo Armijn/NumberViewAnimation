@@ -19,9 +19,12 @@ please make sure you set the viewSize the same value as the width and height of 
 
 Below is an example
 
+
+```js
 <armijn.vink.numberviewanimation.NumberView 
-	        android:layout_width="60dp"
-	        android:layout_height="60dp"
-	        android:textColor="#1D1D1B"
-	        app:viewSize="60dp"
-	        app:font="roboto_thin"/>
+	android:layout_width="60dp"
+	android:layout_height="60dp"
+	android:textColor="#1D1D1B"
+	app:viewSize="60dp"
+	app:font="roboto_thin"/>
+```
